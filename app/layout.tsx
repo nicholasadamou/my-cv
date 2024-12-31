@@ -18,8 +18,8 @@ import { ThemeProvider } from '@/components/theme-provider'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Next.cv',
-  description: 'React.cv cloned built with Next.js and Tailwind CSS',
+  title: 'Nicholas Adamou CV',
+  description: 'Nicholas Adamou\'s CV built with Next.js and Tailwind CSS',
 }
 
 export default function RootLayout({
