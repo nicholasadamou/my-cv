@@ -15,8 +15,7 @@ export const profileData = [
 		title: 'Work Experience',
 		items: [
 			{
-				title: 'Senior Software Engineer at Lockheed Martin',
-				subTitle: 'TS/SCI',
+				title: 'Senior Software Engineer (TS/SCI) at Lockheed Martin',
 				date: 'December 2024 – Present',
 				description:
 					'Joined Lockheed Martin Space to leverage my software engineering skills by contributing to groundbreaking space missions.',
