@@ -25,7 +25,7 @@ export const profileData = [
 				subTitle: 'iPhone Tech Ops',
 				date: 'September 2024 – November 2024',
 				description:
-					'Contracted with Apple’s iPhone Tech Ops via TEKsystems to enhance manufacturing efficiency, leading to optimized workflows and productivity gains. Led the migration from DAW to OAuth2 and OIDC for multiple applications, streamlining authentication and authorization with Apple’s IdMS',
+					'Contracted with Apple’s iPhone Tech Ops via TEKsystems to enhance manufacturing efficiency, leading to optimized workflows and productivity gains. Led the migration from DAW to OAuth2 and OIDC for multiple applications, streamlining authentication and authorization with Apple’s IdMS.',
 			},
 			{
 				title: 'Senior Software Engineer at IBM',
