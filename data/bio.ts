@@ -16,7 +16,7 @@ export const bioData = {
 			href: 'mailto:nicholas.adamou@outlook.com',
 		},
 		{
-			label: 'Github',
+			label: 'GitHub',
 			value: 'nicholasadamou',
 			href: 'https://github.com/nicholasadamou',
 		},
