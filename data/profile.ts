@@ -69,4 +69,33 @@ export const profileData = [
 			},
 		],
 	},
+	{
+		title: "Projects",
+		items: [
+			{
+				title: 'Load Balancer',
+				linkText: 'GitHub',
+				link: 'https://github.com/nicholasadamou/spring-boot-load-balancer-demo',
+				date: 'November 2024',
+				description: 'A modular Spring Boot service that handles round robin load distribution, dynamic service discovery, and health checking.'
+			},
+			{
+				title: 'DotBrains',
+				subTitle: 'Founded a collective dedicated to improving the world through software engineering.',
+				linkText: 'dotbrains.dev',
+				link: 'https://dotbrains.dev',
+				date: 'October 2024',
+				description: 'Architected and designed the set-me-up toolkit to automate MacOS and Debian Linux development environment setups, cutting the time from new\n' +
+					'machine setup to productive developer by 99%.'
+			}, {
+				title: 'Down To Network',
+				subTitle: '2019 IBM CIO Hackathon – First Place, Most Likely to be used at IBM.',
+				linkText: 'GitHub',
+				link: 'https://github.com/nicholasadamou/down-to-network',
+				date: 'December 2019',
+				description: 'Team leader of F&O team (4 team members). Created a cross-platform mobile app with Google Firebase and React that to connect new fellow IBMers to\n' +
+					'experienced IBMers through the power of matching.'
+			}
+		]
+	}
 ];
